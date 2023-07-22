@@ -1,10 +1,10 @@
-Aplikasi Voting U-Choice V 2.0
+<ol>Aplikasi Voting U-Choice V 2.0</ol>
 
-Cara Install
+<li>Cara Install</li>
 
-Otomatis dengan menjalankan:
-=> Jalankan Xampp versi 7.1 atau diatasnya
-=> Extract taruh di dir (C:/D:/E:) xampp/htdocs
+<ul>Otomatis dengan menjalankan:</ul>
+```=> Jalankan Xampp versi 7.1 atau diatasnya```
+``=> Extract taruh di dir (C:/D:/E:) xampp/htdocs
 => buka localhost/phpmyadmin di browser
 => create database kasih nama bebas (contoh: u-choice)
 => import database dir (C:/D:/E:) xampp/htdocs/(nama_file_anda)/database/u-choice
